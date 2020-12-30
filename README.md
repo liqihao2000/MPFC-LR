@@ -1,5 +1,18 @@
 # MPFC-LR
-Matlab code of paper "Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction" by Qi Li, Liquan Mei, and Yibao Li.
+Matlab code of paper "Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction, 389, 113335, 2021." by Qi Li, Liquan Mei, and Yibao Li.
+
+@article{LI2021113335,
+title = "Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction",
+journal = "Journal of Computational and Applied Mathematics",
+volume = "389",
+pages = "113335",
+year = "2021",
+issn = "0377-0427",
+doi = "https://doi.org/10.1016/j.cam.2020.113335",
+url = "http://www.sciencedirect.com/science/article/pii/S0377042720306269",
+author = "Qi Li and Liquan Mei and Yibao Li",
+keywords = "Modified phase field crystal model, Unconditionally energy stable, Pseudo energy, SAV approach"
+}
 
 # Steps:
 You can follow the steps below to run this program:
