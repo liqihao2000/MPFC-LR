@@ -4,14 +4,13 @@ Matlab code of paper "Efficient second-order unconditionally stable numerical sc
 @article{LI2021113335,<br>
 title = "Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction",<br>
 journal = "Journal of Computational and Applied Mathematics",<br>
+author = "Qi Li and Liquan Mei and Yibao Li",<br>
 volume = "389",<br>
 pages = "113335",<br>
 year = "2021",<br>
 issn = "0377-0427",<br>
 doi = "https://doi.org/10.1016/j.cam.2020.113335",<br>
 url = "http://www.sciencedirect.com/science/article/pii/S0377042720306269",<br>
-author = "Qi Li and Liquan Mei and Yibao Li",<br>
-keywords = "Modified phase field crystal model, Unconditionally energy stable, Pseudo energy, SAV approach"<br>
 }
 
 # Steps:
