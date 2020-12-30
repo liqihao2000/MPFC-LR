@@ -10,7 +10,7 @@ pages = "113335",<br>
 year = "2021",<br>
 issn = "0377-0427",<br>
 doi = "https://doi.org/10.1016/j.cam.2020.113335",<br>
-url = "http://www.sciencedirect.com/science/article/pii/S0377042720306269",<br>
+url = "http://www.sciencedirect.com/science/article/pii/S0377042720306269"<br>
 }
 
 # Steps:
